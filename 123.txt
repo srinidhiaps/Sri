@@ -24,4 +24,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/srinidhiaps/Lab.git
 git push -u origin main
-var b = 200;
+
+Count a=100;
+
+
