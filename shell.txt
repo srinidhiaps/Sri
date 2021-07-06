@@ -1,3 +1,2 @@
 shell is a nothing but program, which takes input from terminal.
-Its translate to system calls call to other program.
-
+translate 
